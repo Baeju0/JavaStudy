@@ -49,6 +49,5 @@ public class Main {
         }
 
         System.out.println("switch문 끝");
-
     }
 }
