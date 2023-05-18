@@ -26,3 +26,10 @@
 ---
 #### 5. 메소드(Method)
 <span style="color:gray">src/MethodEx.java</span>    
+
+
+
+---
+#### 6. 클래스와 상속 (Class & Inheritance)
+<span style="color:gray">src/Robot.java</span>    
+<span style="color:gray">src/Juyoung.java</span>    
