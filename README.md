@@ -33,3 +33,10 @@
 #### 6. 클래스와 상속 (Class & Inheritance)
 <span style="color:gray">src/Robot.java</span>    
 <span style="color:gray">src/Juyoung.java</span>    
+
+
+
+---
+#### 7. 생성자 & 게터세터 (Constructor & Getter Setter)
+<span style="color:gray">src/Robot.java</span>    
+<span style="color:gray">src/Juyoung.java</span>    
